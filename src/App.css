@@ -89,6 +89,7 @@ time, mark, audio, video {
   h1 {
 	--color:  hsl(var(--primary-color), var(--l));
 	font-size: 64px;
+	text-align: center;
 	color: var(--color);
   }
   
@@ -99,6 +100,8 @@ time, mark, audio, video {
   
   h3 {
 	font-size: 24px;
+	text-align: center;
+	color: white
   }
   
   .recipe_section {
